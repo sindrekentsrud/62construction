@@ -1,5 +1,6 @@
 # MINUTES OF MEETING
 ### PRODUCTION PLANNING
+
 |WEEK|YEAR|HOST|REFERENT|PARTICIPANTS                          |
 |----|----|----|--------|--------------------------------------|
 |51  |2017|JKB |SHK     |ØSV, TSM, FS, EG, TS, TAR, KV, SP, PEW|
@@ -12,6 +13,7 @@
 #### ACTION POINTS
 
 #### AGENDA
+
 |ID|PG NO              |PROJECT           |CLIENT                            |
 |--|-------------------|------------------|----------------------------------|
 |1.|201708268          |Williksen slakteri|Cflow Fish Handling AS            |
@@ -20,4 +22,3 @@
 |4.|201411121          |Johan Sverdrup    |Statoil Petrolium                 |
 |5.|201704287          |Aasta Hansteen    |Hyundai Heavy Industries CO., LTD.|
 |6.|                   |                  |                                  |
-
